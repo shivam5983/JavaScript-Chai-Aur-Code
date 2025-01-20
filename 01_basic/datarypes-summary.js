@@ -40,3 +40,16 @@ console.log(typeof(myobj));
 
 
 
+// ***********************************************************
+
+// Stack(Primitive), 
+// 
+// heap memory(Non-Primitive) 
+// heap ke andar same reference milta hai isme value change nhi hote hai
+// Stack ke andar jayenge to copy milta hai aur oroginal value to same rehta hai
+
+
+let myYoutubeName = "Shivammm"
+
+
+
