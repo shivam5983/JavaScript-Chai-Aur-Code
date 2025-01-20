@@ -42,3 +42,15 @@ console.log(url.replace('%20','-'))
 // url.includes('shivam')  output false
 
 console.log(gameName.split('-'))
+
+
+
+const str="Hello"
+
+console.log(str.repeat(3)); // Outputs: "HelloHelloHello"
+console.log(str.endsWith("lo")); // Outputs: true
+console.log(str.startsWith("He")); // Outputs: true
+console.log(str.replace("Hello", "Hi")); // Outputs: "Hi"
+
+
+
